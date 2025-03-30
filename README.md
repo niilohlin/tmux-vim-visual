@@ -5,8 +5,8 @@ instance of your current buffer.
 
 Installation
 
-```
-https://github.com/niilohlin/tmux-vim-visual
+```tmux
+set -g @plugin 'niilohlin/tmux-vim-visual'
 ```
 
 
